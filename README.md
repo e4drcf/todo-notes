@@ -1,4 +1,4 @@
-# note-board
+# Note-board
 
 ## Project setup
 ```
